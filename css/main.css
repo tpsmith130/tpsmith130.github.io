@@ -191,7 +191,7 @@ iframe{
 }
 
 .banner1 {
-    background: transparent url('images/DSC_0308.jpg') 0 0 no-repeat fixed;
+    background: transparent url('/images/DSC_0308.jpg') 0 0 no-repeat fixed;
  
     text-align: center;
     background-size: cover;
@@ -204,7 +204,7 @@ iframe{
 }
 
 .banner2 {
-    background: transparent url('images/DSC_0174.jpg') 0 0 no-repeat fixed;
+    background: transparent url('/images/DSC_0174.jpg') 0 0 no-repeat fixed;
  
     text-align: center;
     background-size: cover;
@@ -217,7 +217,7 @@ iframe{
 }
 
 .banner3 {
-    background: transparent url('images/DSC_0946.jpg') 0 0 no-repeat fixed;
+    background: transparent url('/images/DSC_0946.jpg') 0 0 no-repeat fixed;
  
     text-align: center;
     background-size: cover;
